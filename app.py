@@ -132,7 +132,7 @@ def main():
     - 2 Conv2D layers with ReLU activation
     - MaxPooling and Dropout for regularization
     - Dense layers for classification
-    - Trained for 5 epochs with 99% accuracy
+    - Trained for 15 epochs with 99% accuracy
     """)
 
 if __name__ == "__main__":
