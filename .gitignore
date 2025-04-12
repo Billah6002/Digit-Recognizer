@@ -4,9 +4,6 @@ env/
 .env/
 .venv/
 
-# Model files
-mnist_model.h5
-
 # Python
 __pycache__/
 *.py[cod]
